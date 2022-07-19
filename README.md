@@ -1,6 +1,6 @@
 # Portfólio
 
-<p>Saiba mais acessando o site <a href="#">Clicando aki</a></p> 
+
 
 
 <h2>👨‍🏫 Créditos </h2>
