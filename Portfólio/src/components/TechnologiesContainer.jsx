@@ -2,9 +2,8 @@ import {
     DiHtml5,
     DiCss3,
     DiJsBadge,
-    DiNodejsSmall,
-    DiMysql,
     DiReact,
+    DiBootstrap,
 } from "react-icons/di";
 
 import "../styles/components/technologiescontainer.sass";
@@ -12,9 +11,8 @@ import "../styles/components/technologiescontainer.sass";
 const technologies = [
     { id: "html", name: "HTML5", icon: <DiHtml5 /> },
     { id: "css", name: "CSS3", icon: <DiCss3 /> },
+    { id: "Bootstrap", name: "Bootstrap", icon: <DiBootstrap /> },
     { id: "js", name: "JavaScript", icon: <DiJsBadge /> },
-    { id: "node", name: "Node.js", icon: <DiNodejsSmall /> },
-    { id: "mysql", name: "MySQL", icon: <DiMysql /> },
     { id: "react", name: "React", icon: <DiReact /> },
 ];
 
