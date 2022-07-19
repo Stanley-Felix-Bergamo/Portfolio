@@ -18,7 +18,7 @@ export const Sidebar = () => {
                 Download currículo
             </a>
         </aside >
-    );
-};
+    )
+}
 
 export default Sidebar;

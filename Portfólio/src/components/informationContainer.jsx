@@ -29,6 +29,6 @@ const informationContainer = () => {
 
     </section>
 
-};
+}
 
 export default informationContainer;

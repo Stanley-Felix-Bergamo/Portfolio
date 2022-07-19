@@ -15,10 +15,8 @@ const SocialNetworks = () => {
             <a href="#" className="social-btn" id={network.name} key={network.name} >
                 {network.icon}
             </a>
-        ))};
-
+        ))}
     </section>
-
-};
+}
 
 export default SocialNetworks
